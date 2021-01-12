@@ -4,7 +4,8 @@ Promos Aplikasi sederhana sesuai Study Case yang diberikan dosen sebagai tugas U
 Ruang Lingkup dan Fungsinya : 
 -User dapat melihat daftar makanan yang ditawarkan -User dapat memasukkan atau menghapus makanan pilihan ke dalam keranjang 
 -User dapat melihat subtotal makanan yang terdapat pada keranjang 
--User dapat melihat daftar voucher yang ditawarkan -User dapat menggunakan salah satu voucher 
+-User dapat melihat daftar voucher yang ditawarkan 
+-User dapat menggunakan salah satu voucher 
 -User dapat melihat harga total termasuk potongannya
 
 bagaimana cara kerjanya? 
