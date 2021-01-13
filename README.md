@@ -1,5 +1,8 @@
 # Study-Case-Pemrograman
-Promos Aplikasi sederhana sesuai Study Case yang diberikan dosen sebagai tugas UAS Pemrogramana , Aplikasi ini berguna sebagai simulasi pembelian makanan/minuman dengan implementasi promo/voucher.
+Nama : Denysa Handayani Putri
+NIM : 19.11.2782
+Promos 
+Aplikasi sederhana sesuai Study Case yang diberikan dosen sebagai tugas UAS Pemrogramana , Aplikasi ini berguna sebagai simulasi pembelian makanan/minuman dengan implementasi promo/voucher.
 
 Ruang Lingkup dan Fungsinya : 
 -User dapat melihat daftar makanan yang ditawarkan -User dapat memasukkan atau menghapus makanan pilihan ke dalam keranjang 
